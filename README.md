@@ -44,23 +44,18 @@ Creates:
 
 ### 1. Initialize the Terraform project
 
-```bash
 terraform init
-```bash
 
 ### 2. Plan with a specific environment (e.g., Dev)
 
-``bash
 terraform plan -var-file="dev.tfvars"
 
 ### 3. Apply the configuration
 
-``bash
 terraform apply -var-file="dev.tfvars"
 
 ### 4. Destroy the infrastructure
 
-``bash
 terraform destroy -var-file="dev.tfvars"
 
 ## 📝 Inputs
