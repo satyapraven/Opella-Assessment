@@ -44,7 +44,7 @@ Creates:
 
 ### 1. Initialize the Terraform project
 
-``bash
+```bash
 terraform init
 
 ### 2. Plan with a specific environment (e.g., Dev)
