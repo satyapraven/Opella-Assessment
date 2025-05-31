@@ -7,7 +7,6 @@ This Terraform project provisions a basic AWS infrastructure, including:
 
 ## 📁 Project Structure
 
-C:\Terraform\Opella\
 │   main.tf
 │   variables.tf
 │   outputs.tf
