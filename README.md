@@ -46,6 +46,7 @@ Creates:
 
 ```bash
 terraform init
+```bash
 
 ### 2. Plan with a specific environment (e.g., Dev)
 
